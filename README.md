@@ -85,7 +85,7 @@ To enable the shared Firebase backend (recommended for the live demo), see
 - Node.js/Express backend for more advanced verification logic, if client-side
   checks prove insufficient at scale
 
-## Known limitations (be upfront about these in Q&A)
+## Known limitations 
 
 - Company verification is a curated demo list (~30 companies), not a live
   government registry — this is explicitly flagged in the roadmap and in the
