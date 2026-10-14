@@ -1,8 +1,8 @@
 # Case File — Job Offer Verification Desk
 
-**Project Viksit Bharat 2026 — Frontend Arena Hackathon**
-**Problem Statement 14 (Cybersecurity): "The Fake Job Offer"**
-**Team: Hack Buddies** — Tarushi Sanjoy Tapaswy (Team Lead), Jesica Wawale
+
+**Problem Statement: "The Fake Job Offer"**
+**Team: Hack Buddies** — Tarushi Sanjoy Tapaswy (Team Lead)
 
 ## Problem
 
